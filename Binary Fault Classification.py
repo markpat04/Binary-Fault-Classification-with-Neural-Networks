@@ -1,5 +1,4 @@
-# Chapter 8: Binary Fault Classification with Neural Networks
-
+# Import libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
